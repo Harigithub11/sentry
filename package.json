@@ -279,7 +279,7 @@
     "jest-junit": "16.0.0",
     "knip": "6.0.1",
     "odiff-bin": "^4.3.2",
-    "oxfmt": "^0.41.0",
+    "oxfmt": "^0.43.0",
     "playwright": "^1.58.2",
     "postcss-styled-syntax": "0.7.0",
     "react-refresh": "0.18.0",
