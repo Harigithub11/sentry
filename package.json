@@ -247,7 +247,7 @@
     "@types/d3-selection": "^3.0.11",
     "@types/d3-zoom": "^3.0.8",
     "@types/gettext-parser": "8.0.0",
-    "@types/node": "^22.9.1",
+    "@types/node": "^25.5.0",
     "@typescript-eslint/rule-tester": "8.56.1",
     "@typescript-eslint/utils": "8.56.1",
     "@typescript/native-preview": "7.0.0-dev.20260112.1",
